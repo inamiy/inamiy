@@ -21,7 +21,7 @@
     - Recent OSS: [Harvest](https://github.com/inamiy/Harvest), [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery), [SwiftRewriter](https://github.com/inamiy/SwiftRewriter)
 
 - 5 years of Functional Programming
-    - Haskell, PureScript, Rust, TypeScript
+    - Haskell, PureScript, Elm, Rust, TypeScript
     - Interests: Category Theory, Type Theory, Effect System
 
 - English
