@@ -13,8 +13,8 @@
 
 # Skills
 
-- 10 Years of iOS development (iOS 3 - iOS 12)
-    - Swift: 6 years
+- 12 Years of iOS development (iOS 3 - iOS 14)
+    - Swift: 8 years
         - SwiftUI, Combine, ReactiveSwift, RxSwift
     - Objective-C: 4 years
     - Interests: User interface, user experience, architecture, team development
