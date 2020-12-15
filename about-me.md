@@ -14,9 +14,9 @@
 # Skills
 
 - 12 Years of iOS development (iOS 3 - iOS 14)
-    - Swift: 7 years
+    - Swift: 6 years
         - SwiftUI, Combine, ReactiveSwift, RxSwift
-    - Objective-C: 5 years
+    - Objective-C: 6 years
     - Interests: User interface, user experience, architecture, team development
     - Recent OSS: [Harvest](https://github.com/inamiy/Harvest), [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery), [SwiftRewriter](https://github.com/inamiy/SwiftRewriter)
 
