@@ -33,7 +33,7 @@
 
 # Experience
 
-### iOS Developer at dely, Inc. (2020-, current)
+## iOS Developer at dely, Inc. (2020-, current)
 
 ### Kurashiru iOS App (2020-)
 
