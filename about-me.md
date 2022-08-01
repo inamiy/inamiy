@@ -1,6 +1,7 @@
 # About me
 
-<img src="https://avatars1.githubusercontent.com/u/138476?s=460&v=4" width="300">
+<!-- <img src="https://avatars1.githubusercontent.com/u/138476?s=460&v=4" width="300"> -->
+<img src="https://user-images.githubusercontent.com/138476/182128453-11639663-c7d9-41f1-941d-08de97ae47b1.jpg" width="300">
 
 | Key | Value |
 |-----|-------|
@@ -13,14 +14,14 @@
 
 # Skills
 
-- 12 Years of iOS development (iOS 3 - iOS 14)
+- 12 Years of iOS development (iOS 3 - iOS 15)
     - Swift: 6 years
-        - SwiftUI, Combine, ReactiveSwift, RxSwift
+        - Swift Concurrency, SwiftUI, Combine, ReactiveSwift, RxSwift
     - Objective-C: 6 years
     - Interests: User interface, user experience, architecture, team development
-    - Recent OSS: [Harvest](https://github.com/inamiy/Harvest), [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery), [SwiftRewriter](https://github.com/inamiy/SwiftRewriter)
+    - Recent OSS: [Actomaton](https://github.com/Actomaton/Actomaton), [SherlockForms](https://github.com/inamiy/SherlockForms), [SwiftRewriter](https://github.com/inamiy/SwiftRewriter)
 
-- 5 years of Functional Programming
+- 6 years of Functional Programming
     - Haskell, PureScript, Elm, Rust, TypeScript
     - Interests: Category Theory, Type Theory, Effect System
 
@@ -37,7 +38,11 @@
 
 ### Kurashiru iOS App (2020-)
 
-- TBD
+- Food recipe viewer & video player
+- TikTok-like video player & editor
+- Swift Concurrency (Actomaton)
+- Navigation re-architecturing
+- Micro-modular re-architecturing
 - [App URL](https://apps.apple.com/jp/app/%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%AB-%E3%83%AC%E3%82%B7%E3%83%94%E5%8B%95%E7%94%BB%E3%81%A7%E6%96%99%E7%90%86%E3%81%8C%E3%81%8A%E3%81%84%E3%81%97%E3%81%8F%E4%BD%9C%E3%82%8C%E3%82%8B/id1059134258)
 
 ## Freelance (2020)
@@ -115,6 +120,7 @@ Sophia University, Department of Physics, Tokyo Japan — 2004
 
 All slides: [https://speakerdeck.com/inamiy](https://speakerdeck.com/inamiy)
 
+- 🇯🇵 [2021/09/18 Understanding Monads, Contintuations, and Coroutines / iOSDC Japan 2021 - Speaker Deck](https://speakerdeck.com/inamiy/iosdc-japan-2021)
 - 🇬🇧 [2020/09/21 Functional iOS Architecture for SwiftUI (English)](https://speakerdeck.com/inamiy/functional-ios-architecture-for-swiftui)
     - Notes: https://zenn.dev/inamiy/books/3dd014a50f321040a047
 - 🇯🇵 [2020/09/21 Functional iOS Architecture for SwiftUI](https://speakerdeck.com/inamiy/iosdc-japan-2020)
