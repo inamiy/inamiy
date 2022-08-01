@@ -120,7 +120,7 @@ Sophia University, Department of Physics, Tokyo Japan — 2004
 
 All slides: [https://speakerdeck.com/inamiy](https://speakerdeck.com/inamiy)
 
-- 🇯🇵 [2021/09/18 Understanding Monads, Contintuations, and Coroutines / iOSDC Japan 2021 - Speaker Deck](https://speakerdeck.com/inamiy/iosdc-japan-2021)
+- 🇯🇵 [2021/09/18 Understanding Monads, Continuations, and Coroutines / iOSDC Japan 2021 - Speaker Deck](https://speakerdeck.com/inamiy/iosdc-japan-2021)
 - 🇬🇧 [2020/09/21 Functional iOS Architecture for SwiftUI (English)](https://speakerdeck.com/inamiy/functional-ios-architecture-for-swiftui)
     - Notes: https://zenn.dev/inamiy/books/3dd014a50f321040a047
 - 🇯🇵 [2020/09/21 Functional iOS Architecture for SwiftUI](https://speakerdeck.com/inamiy/iosdc-japan-2020)
