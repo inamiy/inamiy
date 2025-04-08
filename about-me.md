@@ -32,6 +32,21 @@
 
 # Experience
 
+## Goodnotes (2022-Present)
+
+- Audio Recorder & Player with tracking penstrokes
+- AI audio transcriptions & summarization
+- Architecting with Goodnotes 5/6 version switching support
+- Micro-modularisation
+- [App URL](https://apps.apple.com/jp/app/id1444383602)
+
+## dely (Kurashiru) (2020-2022)
+
+- TikTok-like viewer & video player
+- Use Elm-like Architecture ([Actomaton](https://github.com/Actomaton/Actomaton))
+- Micro-modularisation
+- [App URL](https://apps.apple.com/jp/app/id1059134258)
+
 ## Freelance (2020)
 
 - Photo viewer web app (Next.js, Firebase)
@@ -105,8 +120,13 @@ Sophia University, Department of Physics, Tokyo Japan — 2004
 
 # Presentation
 
+Blog posts: [blog](./blog/README.md)
+
 All slides: [https://speakerdeck.com/inamiy](https://speakerdeck.com/inamiy)
 
+- 🇯🇵 [2023/01/21 Swift Concurrency in GoodNotes - Speaker Deck](https://speakerdeck.com/inamiy/swift-concurrency-in-goodnotes)
+- 🇯🇵 [2022/09/11 Swift Actor Model and Elm Architecture / iOSDC Japan 2022 - Speaker Deck](https://speakerdeck.com/inamiy/iosdc-japan-2022)
+- 🇯🇵 [2021/09/18 Monads, Continuations, Coroutines for Swift async/await / iOSDC Japan 2021 - Speaker Deck](https://speakerdeck.com/inamiy/iosdc-japan-2021)
 - 🇬🇧 [2020/09/21 Functional iOS Architecture for SwiftUI (English)](https://speakerdeck.com/inamiy/functional-ios-architecture-for-swiftui)
     - Notes: https://zenn.dev/inamiy/books/3dd014a50f321040a047
 - 🇯🇵 [2020/09/21 Functional iOS Architecture for SwiftUI](https://speakerdeck.com/inamiy/iosdc-japan-2020)
