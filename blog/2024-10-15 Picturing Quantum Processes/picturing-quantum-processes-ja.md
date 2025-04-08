@@ -35,8 +35,8 @@
 
 <figure>
   <img src="images/string-diagram2.webp">
-  <figcaption>例：料理レシピのストリング図式の例。料理の工程においてループは存在しない。なお、この図式を数式（またはプログラミング風）で書くと、(crack ⊗ crack ⊗ id) ▹ (id ⊗ swap ⊗ id) ▹ (whisk ⊗ beat ⊗ id) ▹ (id ⊗ stir) ▹ fold出典：Crema di Mascarpone and Diagrammatic Reasoning | Graphical Linear Algebra</figcaption>
-</figure
+  <figcaption>例：料理レシピのストリング図式の例。料理の工程においてループは存在しない。なお、この図式を数式（またはプログラミング風）で書くと、(crack ⊗ crack ⊗ id) ▹ (id ⊗ swap ⊗ id) ▹ (whisk ⊗ beat ⊗ id) ▹ (id ⊗ stir) ▹ fold。出典：Crema di Mascarpone and Diagrammatic Reasoning | Graphical Linear Algebra</figcaption>
+</figure>
 
 ところが、量子論ではボルン則に従い、行列のトレースを計算することが可能なため、あたかも時間を遡るかのように、図式上において出来事自身へのループ構造を許容する（一般図式）。この自己ループの概念をさらに強力に推し進めると、「他の出来事と自由につながり合う（入力と入力、出力と出力が絡み合う）」ことすら可能となり、量子の世界の因果関係が破綻する（ストリング図式のコンパクトの性質による）。これがいわゆる **「量子もつれ（絡み合い）」** やその応用の **「量子テレポーテーション」** といった、従来の常識では考えられなかった新しい物理学の理論・計算体系の確立へとつながっている。
 
@@ -82,8 +82,8 @@
 第9章では、スパイダーをさらに改良した **「位相付きスパイダー」** **「色付きスパイダー」** について詳しく解説されている。前者については、スパイダー図式に**相対位相**の概念が加わると位相が可換群をなすことから、量子スパイダーの融合時に位相の和が生じるようになる。また後者は、 **量子の相補性**が加わることで、スパイダーに色を付けて分別することができる。
 
 <figure>
-  <img src="images/spider.webp">
-  <figcaption>位相を持つ相補的な2色のスパイダーと、その規則の一例出典：Quantum Picturalism: Learning Quantum Theory in High School | Abstract</figcaption>
+  <img src="images/phase-spider.webp">
+  <figcaption>位相を持つ相補的な2色のスパイダーと、その規則の一例。出典：Quantum Picturalism: Learning Quantum Theory in High School | Abstract</figcaption>
 </figure>
 
 興味深いのは、「色の異なる相補的な2匹のスパイダーが2本の結線で結ばれているとき、それらの結線を無いものとみなせる」という性質だ。これは相補性の定義であり、その数学的背景としてホップ代数がある。相補的な2色を選ぶにあたり、自己共役な正規直交基底（例：ブロッホ球のZ軸方向とX軸方向）を選ぶことで、ホップ代数の対合射は恒等射になる。また、ホップ代数の親クラスである双代数（これもまたモノイドとコモノイドの両方の性質を併せ持つ）の規則が図式計算に持ち込まれる（強相補性）。
