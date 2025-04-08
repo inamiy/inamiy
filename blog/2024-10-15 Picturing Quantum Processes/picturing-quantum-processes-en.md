@@ -43,7 +43,7 @@ This idea can be similarly applied to the time-series world of events. It's gene
 However, in quantum theory, according to the Born rule, it is possible to calculate the trace of a matrix, allowing for loop structures back to the event itself in the diagram, as if going back in time (general diagrams). If this concept of self-loops is further promoted, it even becomes possible to "freely connect with other events (inputs connected to inputs, outputs connected to outputs)," breaking the causal relationships in the quantum world (due to the compactness property of string diagrams). This leads to the establishment of new physical theories and computational systems that were unimaginable with conventional wisdom, such as **"quantum entanglement"** and its application, **"quantum teleportation."**
 
 <figure>
-  <img src="images/teleportation.webp">
+  <img src="images/quantum-teleportation.webp">
   <figcaption>Example of quantum teleportation. Using a quantumly entangled Bell state between Alice and Bob, a quantum state can be instantaneously transferred. (However, Bob doesn't know anything about the correction $${f}$$ until he receives classical information separately from Alice)</figcaption>
 </figure>
 
