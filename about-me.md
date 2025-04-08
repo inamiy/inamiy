@@ -1,6 +1,6 @@
 # About me
 
-<img src="https://avatars1.githubusercontent.com/u/138476?s=460&v=4" width="300">
+<img src="https://avatars.githubusercontent.com/u/138476?v=4" width="300">
 
 | Key | Value |
 |-----|-------|
@@ -9,20 +9,19 @@
 
 - [GitHub: @inamiy](https://github.com/inamiy)
 - [SpeakerDeck: @inamiy](https://speakerdeck.com/inamiy)
-- [Twitter: @inamiy](https://github.com/inamiy)
+- [Bluesky: @inamiy.bsky.social](https://bsky.app/profile/inamiy.bsky.social)
 
 # Skills
 
-- 10 Years of iOS development (iOS 3 - iOS 12)
-    - Swift: 6 years
+- 16 Years of iOS development (iOS 3.3.1 - iOS 18)
+    - Swift: 11 years
         - SwiftUI, Combine, ReactiveSwift, RxSwift
     - Objective-C: 4 years
     - Interests: User interface, user experience, architecture, team development
-    - Recent OSS: [Harvest](https://github.com/inamiy/Harvest), [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery), [SwiftRewriter](https://github.com/inamiy/SwiftRewriter)
 
-- 5 years of Functional Programming
+- 10 years of Functional Programming
     - Haskell, PureScript, Elm, Rust, TypeScript
-    - Interests: Category Theory, Type Theory, Effect System
+    - Interests: Mathematical logic, Category Theory, Type Theory, Effect System
 
 - English
     - Can read, write, communicate, discuss, and talk at the conference
