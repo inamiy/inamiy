@@ -9,15 +9,22 @@
 
 - [GitHub: @inamiy](https://github.com/inamiy)
 - [SpeakerDeck: @inamiy](https://speakerdeck.com/inamiy)
-- [Bluesky: @inamiy.bsky.social](https://bsky.app/profile/inamiy.bsky.social)
 
 # Skills
 
-- 16 Years of iOS development (iOS 3.3.1 - iOS 18)
-    - Swift: 11 years
+- AI-assisted development
+    - Claude Code, Codex, Open-Weight LLMs orchestration (plan, implementation, review, testing)
+
+- 16 Years of iOS development (iOS 3.3.1 - iOS 27)
+    - Swift: 12 years
         - SwiftUI, Combine, ReactiveSwift, RxSwift
     - Objective-C: 4 years
     - Interests: User interface, user experience, architecture, team development
+    - OSS
+        - [swift-concurrency-type-system](https://github.com/inamiy/swift-concurrency-type-system)
+        - [Actomaton](https://github.com/Actomaton/Actomaton)
+        - [SwiftRewriter](https://github.com/inamiy/SwiftRewriter)
+        - [Cassowary](https://github.com/inamiy/Cassowary)
 
 - 10 years of Functional Programming
     - Haskell, PureScript, Elm, Rust, TypeScript
@@ -34,8 +41,7 @@
 
 ## Goodnotes (2022-Present)
 
-- Audio Recorder & Player with tracking penstrokes
-- AI audio transcriptions & summarization
+- AI Meeting Assistant — audio capture & on-device transcription engine (Electron + native Node addons), ASR model evals
 - Architecting with Goodnotes 5/6 version switching support
 - Micro-modularisation
 - [App URL](https://apps.apple.com/jp/app/id1444383602)
@@ -124,6 +130,7 @@ Blog posts: [blog](./blog/README.md)
 
 All slides: [https://speakerdeck.com/inamiy](https://speakerdeck.com/inamiy)
 
+- 🇬🇧 [2026/04 Swift Concurrency Type System / try! Swift Tokyo 2026 - Speaker Deck](https://speakerdeck.com/inamiy/swift-concurrency-type-system)
 - 🇯🇵 [2023/01/21 Swift Concurrency in GoodNotes - Speaker Deck](https://speakerdeck.com/inamiy/swift-concurrency-in-goodnotes)
 - 🇯🇵 [2022/09/11 Swift Actor Model and Elm Architecture / iOSDC Japan 2022 - Speaker Deck](https://speakerdeck.com/inamiy/iosdc-japan-2022)
 - 🇯🇵 [2021/09/18 Monads, Continuations, Coroutines for Swift async/await / iOSDC Japan 2021 - Speaker Deck](https://speakerdeck.com/inamiy/iosdc-japan-2021)
